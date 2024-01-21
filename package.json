@@ -1,5 +1,5 @@
 {
-  "name": "react-native-image-crop-tools",
+  "name": "react-native-image-crop-tools-with-x-y",
   "title": "React Native Image Crop Tools",
   "version": "1.8.0",
   "description": "Native image crop tools with embeddable UI and on the fly aspect ratio switchin",
@@ -30,12 +30,8 @@
     "react",
     "typescript"
   ],
-  "author": {
-    "name": "Hunaid Hassan",
-    "email": "hhunaid@gmail.com"
-  },
+  "author": "Hunaid Hassan <hhunaid@gmail.com>",
   "license": "MIT",
-  "readmeFilename": "README.md",
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
@@ -49,5 +45,9 @@
     "typescript": "^3.7.2",
     "prettier": "^1.19.1",
     "@types/react-native": "^0.60.23"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hhunaid/react-native-image-crop-tools/issues"
+  },
+  "homepage": "https://github.com/hhunaid/react-native-image-crop-tools#readme"
 }
