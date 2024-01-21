@@ -37,17 +37,18 @@
     "react-native": ">=0.59.0-rc.0 <1.0.x"
   },
   "devDependencies": {
+    "@types/react-native": "^0.60.23",
+    "prettier": "^1.19.1",
     "react": "^16.9.0",
     "react-native": "^0.61.0",
     "tslint": "^5.17.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-react": "^4.0.0",
-    "typescript": "^3.7.2",
-    "prettier": "^1.19.1",
-    "@types/react-native": "^0.60.23"
+    "typescript": "^3.7.2"
   },
   "bugs": {
     "url": "https://github.com/hhunaid/react-native-image-crop-tools/issues"
   },
-  "homepage": "https://github.com/hhunaid/react-native-image-crop-tools#readme"
+  "homepage": "https://github.com/hhunaid/react-native-image-crop-tools#readme",
+  "install": "npm run build"
 }
